@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Font build tooling
+.venv/
+venv/
+build/
+master_ufo/
+instance_ufo/
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
