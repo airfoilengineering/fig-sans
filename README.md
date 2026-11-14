@@ -1,54 +1,44 @@
 # Fig Sans
 
-Fig Sans is the typeface Airfoil designed for Fig. This repository is the source of truth for the font: it holds the released font files, the design sources they are built from, and notes on how to install and use them.
+Fig Sans is the logotype typeface for Fig. It is a modified version of **[Uncut Sans](https://uncut.wtf/sans-serif/uncut-sans/)** by **Kasper Nordkvist**. Like Uncut Sans, it is free and open source under the [SIL Open Font License 1.1](OFL.txt).
 
-## What is where
+## Credits
 
-| Path | What it holds |
+- **Original typeface:** [Uncut Sans](https://github.com/kaspernordkvist/uncut_sans), designed by [Kasper Nordkvist](https://kaspernordkvist.dk/) for [UNCUT.wtf](https://uncut.wtf/).
+- **Modifications:** Rikki Janae at [Airfoil](https://airfoil.studio), for Fig.
+
+"Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not made, endorsed or supported by Kasper Nordkvist or UNCUT.wtf.
+
+## What changed from Uncut Sans
+
+- Fig Sans is one static style, taken from the Uncut Sans 1.304 variable font at weight 450.
+- The lowercase a, b, c, d, e, g, i, l, n, o, p and r were redrawn and respaced. Accented letters built from them change with them.
+- An fi ligature was added.
+
+The full record is in [FONTLOG.txt](FONTLOG.txt).
+
+## Files
+
+| File | Use it for |
 | --- | --- |
-| `fonts/otf/` | OpenType (CFF) desktop fonts, for design tools and print |
-| `fonts/ttf/` | TrueType desktop fonts, for Windows and app bundles |
-| `fonts/web/` | WOFF2 and WOFF web fonts |
-| `sources/` | Design sources (Glyphs or UFO) the font files are built from |
-| `CHANGELOG.md` | What changed in each release |
-| `LICENSE.md` | Terms of use |
+| `fonts/otf/FigSans450-Regular.otf` | Design tools such as Figma, Illustrator and InDesign |
+| `fonts/ttf/FigSans450-Regular.ttf` | Windows, and apps that need TrueType |
+| `OFL.txt` | The license and copyright notices |
+| `FONTLOG.txt` | Change log and credits |
 
-Font files are named `FigSans-<Style>.<ext>`, for example `FigSans-Regular.otf` or `FigSans-BoldItalic.woff2`.
+The font appears in menus as **Fig Sans 450**.
 
 ## Installing
 
-**Desktop.** Download the latest release, or clone this repository, and install the files in `fonts/otf/`. On macOS, open a file and choose Install, or drag it into Font Book. On Windows, right-click a file and choose Install.
+On macOS, open the `.otf` file and choose Install, or drag it into Font Book. On Windows, right-click the `.ttf` file and choose Install.
 
-**Web.** Copy the files in `fonts/web/` into your project and declare each style with `@font-face`:
+## License
 
-```css
-@font-face {
-  font-family: "Fig Sans";
-  src: url("/fonts/FigSans-Regular.woff2") format("woff2"),
-       url("/fonts/FigSans-Regular.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
+Fig Sans is licensed under the [SIL Open Font License, Version 1.1](OFL.txt). You may use, study, change and share it, including in commercial work. If you share Fig Sans or a modified version, you must:
 
-body {
-  font-family: "Fig Sans", system-ui, sans-serif;
-}
-```
+- keep the copyright notices and the license with it, and
+- release any modified version under the same license.
 
-Repeat the block for each weight and style, changing `font-weight` and `font-style` to match.
+If you change the font, please give your version a new name so it is not confused with Fig Sans.
 
-## Releases
-
-Every release is tagged `vMAJOR.MINOR.PATCH` and carries the same version number as the font files. Download font files from the Releases page rather than from a branch, so you always get a build that has been checked.
-
-## Updating the font
-
-1. Make the change in `sources/`.
-2. Export new font files into `fonts/`, replacing the old ones. Keep the file names the same.
-3. Bump the version in the sources and describe the change in `CHANGELOG.md`.
-4. Open a pull request. Once it is merged, tag the release.
-
-## Ownership
-
-Fig Sans was designed by Airfoil for Fig. See `LICENSE.md` for the terms of use.
+Read the [OFL FAQ](https://openfontlicense.org/ofl-faq/) for more detail.

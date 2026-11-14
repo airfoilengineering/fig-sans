@@ -1,0 +1,54 @@
+FONTLOG for Fig Sans
+--------------------
+
+This file gives detailed information about the Fig Sans font software.
+Distribute it with the Fig Sans fonts and with any work derived from them.
+
+
+Basic Font Information
+----------------------
+
+Fig Sans is the logotype typeface for Fig. It is a modified version of
+Uncut Sans, designed by Kasper Nordkvist for UNCUT.wtf.
+
+Fig Sans is a single static style, Fig Sans 450 Regular. It was taken from
+the Uncut Sans variable font, version 1.304, at weight 450, with the
+italic axis at 0. Some letters were then redrawn and respaced to suit the
+Fig logotype and its sub-brand logos.
+
+Fig Sans is released under the SIL Open Font License, Version 1.1. See
+OFL.txt. "Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not
+made, endorsed or supported by Kasper Nordkvist or UNCUT.wtf.
+
+Original typeface:
+  Uncut Sans by Kasper Nordkvist
+  https://uncut.wtf/sans-serif/uncut-sans/
+  https://github.com/kaspernordkvist/uncut_sans
+
+
+ChangeLog
+---------
+
+14 November 2026 (Airfoil) Fig Sans Version 1.000
+- First release, based on Uncut Sans 1.304.
+- Made a static instance at weight 450.
+- Changed the outlines and spacing of these lowercase letters:
+  a b c d e g i l n o p r
+  Accented letters built from them change with them.
+- Added an fi ligature (U+FB01).
+- Renamed the family to Fig Sans 450. The font does not use the name
+  "Uncut Sans".
+
+
+Acknowledgements
+----------------
+
+If you make modifications, add your own entry below.
+
+N: Kasper Nordkvist
+W: https://kaspernordkvist.dk/
+D: Designer of Uncut Sans, the typeface Fig Sans is based on
+
+N: Rikki Janae
+W: https://airfoil.studio
+D: Modifications for Fig Sans, at Airfoil
