@@ -16,8 +16,8 @@ the Uncut Sans variable font, version 1.304, at weight 450, with the
 italic axis at 0. Some letters were then redrawn and respaced to suit the
 Fig logotype and its sub-brand logos.
 
-Fig Sans is released under the SIL Open Font License, Version 1.1. See
-OFL.txt. "Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not
+Fig owns the rights to the Fig Sans modifications. Fig Sans is released
+under the SIL Open Font License, Version 1.1. See OFL.txt. "Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not
 made, endorsed or supported by Kasper Nordkvist or UNCUT.wtf.
 
 Original typeface:
@@ -28,6 +28,21 @@ Original typeface:
 
 ChangeLog
 ---------
+
+15 November 2026 (Airfoil) Fig Sans Version 1.001
+- Updated the credits and details stored inside the font files. No
+  glyphs, spacing or features changed.
+- The copyright notice keeps Kasper Nordkvist's original notice and
+  names Fig as owner of the modifications. Version 1.000 only said
+  "Modified 2026 by Rikki Janae (i and l glyphs)".
+- Manufacturer is now Airfoil instead of UNCUT.wtf. Designer now names
+  both Kasper Nordkvist and Rikki Janae.
+- Added a description listing the changed letters, and a link to
+  https://github.com/airfoilengineering/fig-sans
+- Set the version to 1.001 everywhere. Version 1.000 still carried the
+  Uncut Sans revision number, 1.304, in its header.
+- The family name stays "Fig Sans 450", so existing design files keep
+  working.
 
 14 November 2026 (Airfoil) Fig Sans Version 1.000
 - First release, based on Uncut Sans 1.304.
