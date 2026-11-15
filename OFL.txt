@@ -2,12 +2,14 @@ Copyright (c) 2022 Kasper Nordkvist.
 "Uncut Sans" is trademark of Kasper Nordkvist.
 https://uncut.wtf/sans-serif/uncut-sans.html
 
-Fig Sans modifications Copyright (c) 2026 Metarch Corporation (Fig).
+Fig Sans modifications (changes to the lowercase a b c d e g i l n o p r
+and the added fi ligature) Copyright (c) 2026 Metarch Corporation (Fig).
 Modified by Rikki Janae at Airfoil (https://airfoil.studio).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://openfontlicense.org
+
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
@@ -48,7 +50,7 @@ new environment.
 "Author" refers to any designer, engineer, programmer, technical
 writer or other person who contributed to the Font Software.
 
-PERMISSION AND CONDITIONS
+PERMISSION & CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of the Font Software, to use, study, copy, merge, embed, modify,
 redistribute, and sell modified and unmodified copies of the Font

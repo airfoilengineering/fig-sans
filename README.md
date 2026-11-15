@@ -5,7 +5,7 @@ Fig Sans is the logotype typeface for Fig. It is a modified version of **[Uncut 
 ## Credits
 
 - **Original typeface:** [Uncut Sans](https://github.com/kaspernordkvist/uncut_sans), designed by [Kasper Nordkvist](https://kaspernordkvist.dk/) for [UNCUT.wtf](https://uncut.wtf/).
-- **Modifications:** Rikki Janae at [Airfoil](https://airfoil.studio), for Fig. Fig (Metarch Corporation) owns the rights to the modifications.
+- **Modifications:** Rikki Janae at [Airfoil](https://airfoil.studio), for Fig. Metarch Corporation (Fig) holds the copyright in these changes and releases them under the same Open Font License, as the license requires.
 
 "Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not made, endorsed or supported by Kasper Nordkvist or UNCUT.wtf.
 
@@ -42,5 +42,7 @@ Fig Sans is licensed under the [SIL Open Font License, Version 1.1](OFL.txt). Yo
 - release any modified version under the same license.
 
 If you change the font, please give your version a new name so it is not confused with Fig Sans.
+
+The copyright notices record who made which part. They do not restrict anything the license allows, and nobody, including Fig, can add restrictions to Fig Sans.
 
 Read the [OFL FAQ](https://openfontlicense.org/ofl-faq/) for more detail.

@@ -16,8 +16,9 @@ the Uncut Sans variable font, version 1.304, at weight 450, with the
 italic axis at 0. Some letters were then redrawn and respaced to suit the
 Fig logotype and its sub-brand logos.
 
-Fig (Metarch Corporation) owns the rights to the Fig Sans modifications. Fig Sans is released
-under the SIL Open Font License, Version 1.1. See OFL.txt. "Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not
+Metarch Corporation (Fig) holds the copyright in the Fig Sans
+modifications. Like the rest of the font, they are released under the
+SIL Open Font License, Version 1.1, which nobody may restrict. See OFL.txt. "Uncut Sans" is a trademark of Kasper Nordkvist. Fig Sans is not
 made, endorsed or supported by Kasper Nordkvist or UNCUT.wtf.
 
 Original typeface:
